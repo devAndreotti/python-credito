@@ -5,6 +5,10 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/devAndreotti?color=FFF&labelColor=4B8BBE&style=flat-square">
 </p>
 
+<div align="center">
+  <img src="./project-01.png" alt="Previsão Score" width="1000">
+</div>
+
 ## 📋 Sobre o Projeto
 O **Score de Crédito Inteligente** é um projeto de *machine learning* que realiza a análise e previsão do score de crédito de clientes com base em dados comportamentais e financeiros. A proposta é demonstrar como técnicas simples de *data science* e modelos supervisionados podem ser aplicadas de forma prática no contexto financeiro.
 
