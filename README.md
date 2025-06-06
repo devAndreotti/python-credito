@@ -60,12 +60,6 @@ Este projeto pode ser utilizado como base para soluções de análise preditiva 
   * Gasto com cartão de crédito
   * Renda mensal
 
-## 🧪 Melhorias Futuras
-* [ ] Integração com dashboards interativos (ex: Streamlit)
-* [ ] Otimização de hiperparâmetros com GridSearchCV
-* [ ] Inclusão de validação cruzada (cross-validation)
-* [ ] Aplicação de técnicas de balanceamento (SMOTE)
-
 ## 💪 Como Contribuir
 1. Faça um fork do projeto.
 2. Crie uma nova branch: `git checkout -b feature/nova-feature`
